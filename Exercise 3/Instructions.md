@@ -1,0 +1,1 @@
+Write the value heuristic function that evaluates a state in the game. Note that the function should also correctly evaluate game end modes. The function must be written so that the calculation time of the next move is 10 seconds maximum.
